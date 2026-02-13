@@ -1,2 +1,4 @@
 model.pth
 model_and_optimizer.pth
+/gpt2/124M
+/__pycache__
