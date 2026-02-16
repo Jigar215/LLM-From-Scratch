@@ -5,3 +5,4 @@ model_and_optimizer.pth
 *.zip
 /sms_spam_collection
 *.csv
+*.pth
