@@ -6,3 +6,4 @@ model_and_optimizer.pth
 /sms_spam_collection
 *.csv
 *.pth
+*.json
