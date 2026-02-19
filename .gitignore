@@ -7,3 +7,4 @@ model_and_optimizer.pth
 *.csv
 *.pth
 *.json
+/gpt2/355M
